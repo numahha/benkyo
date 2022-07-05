@@ -27,4 +27,6 @@ conda activate hogehogehoge
 jupyter notebook
 ```
 ## リンク
-[数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/6university_consortium.html)
+* [数理・データサイエンス・AI教育強化拠点コンソーシアム](http://www.mi.u-tokyo.ac.jp/6university_consortium.html)
+* [CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html)
+* [Computer Vision (CMU 16-385)](http://16385.courses.cs.cmu.edu/spring2021/courseinfo)
